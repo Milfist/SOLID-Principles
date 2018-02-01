@@ -1,7 +1,0 @@
-package org.formacion.isp;
-
-public interface CorrectorI {
-
-	public boolean correcto (Idioma idioma);
-	
-}

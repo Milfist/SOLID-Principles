@@ -1,7 +1,0 @@
-package org.formacion.srp;
-
-public interface RecomendadorPrint {
-	
-	public String recomendacionesCSV (Recomendador r);
-	
-}

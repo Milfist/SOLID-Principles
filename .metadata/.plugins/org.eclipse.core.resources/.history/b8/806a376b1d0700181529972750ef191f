@@ -1,7 +1,0 @@
-package org.formacion.di.negocio;
-
-public interface ControladorExtocI {
-
-	public boolean necesitaReponer (String tienda, String producto);
-	
-}

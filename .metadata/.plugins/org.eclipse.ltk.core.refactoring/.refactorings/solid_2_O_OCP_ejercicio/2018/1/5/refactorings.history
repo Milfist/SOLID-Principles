@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;OrdenNatural.java&apos; to &apos;org.formacion.ocp.OrdenNatural.java&apos;&#x0D;&#x0A;- Original project: &apos;solid_2_O_OCP_ejercicio&apos;&#x0D;&#x0A;- Destination element: &apos;org.formacion.ocp.OrdenNatural.java&apos;&#x0D;&#x0A;- Original element: &apos;org.formacion.ocp.OrdenNatural.java&apos;" description="Copy compilation unit" destination="/src&lt;org.formacion.ocp{OrdenNatural.java" element1="/src&lt;org.formacion.ocp{OrdenNatural.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1517408944309" units="1" version="1.0"/>
-</session>
