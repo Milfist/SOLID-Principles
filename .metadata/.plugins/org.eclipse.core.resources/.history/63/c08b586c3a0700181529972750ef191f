@@ -1,0 +1,9 @@
+package org.formacion.isp;
+
+public interface Corrector {
+
+	public void nueva (String palabra);	
+	public String texto ();
+	public boolean correcto (Idioma idioma);
+	
+}

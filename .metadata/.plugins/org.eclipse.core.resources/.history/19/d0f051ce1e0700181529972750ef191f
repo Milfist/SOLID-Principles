@@ -1,0 +1,9 @@
+package org.formacion.di.negocio;
+
+import org.formacion.di.bbdd.InventarioBBDD;
+
+public abstract class InventarioBBDDApi {
+	
+	protected final InventarioBBDD inventario = new InventarioBBDD();
+	
+}

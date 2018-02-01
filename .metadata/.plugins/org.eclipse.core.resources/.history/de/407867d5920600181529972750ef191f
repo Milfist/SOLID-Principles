@@ -1,0 +1,9 @@
+package org.formacion.ocp;
+
+import java.util.List;
+
+public interface Primos {
+	
+	public List<Integer> primos();
+
+}

@@ -1,0 +1,15 @@
+INDEX VERSION 1.130+D:\Profiles\mAnguita\workspace\.metadata\.plugins\org.eclipse.jdt.core
+156217018.index
+3780691010.index
+2060518626.index
+331214668.index
+552630812.index
+372580519.index
+260127143.index
+3480790978.index
+1057386876.index
+2022050097.index
+2393563997.index
+3045285901.index
+4248367930.index
+3040139084.index

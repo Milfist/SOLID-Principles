@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestProcesadorTexto" project="solid_4_I_ISP_ejercicio" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="org.formacion.isp.TestProcesadorTexto" time="0.052">
+    <testcase name="test_simple" classname="org.formacion.isp.TestProcesadorTexto" time="0.049"/>
+    <testcase name="test_con_idioma" classname="org.formacion.isp.TestProcesadorTexto" time="0.003"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,8 @@
+package org.formacion.isp;
+
+public interface TextoI {
+	
+	public void nueva (String palabra);	
+	public String texto ();
+
+}

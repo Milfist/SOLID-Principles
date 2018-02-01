@@ -1,0 +1,5 @@
+package org.formacion.di.negocio;
+
+public abstract class InventarioBBDDApi {
+
+}
